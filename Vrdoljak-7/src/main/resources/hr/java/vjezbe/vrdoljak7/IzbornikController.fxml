@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="hr.java.vjezbe.vrdoljak7.IzbornikController">
+
+    <MenuBar>
+        <Menu text="Artikli">
+            <Menu text="Automobil">
+                <MenuItem onAction="#pretragaAutomobila" text="Pretraga" />
+            </Menu>
+            <Menu text="Stan">
+                <MenuItem onAction="#pretragaStanova" text="Pretraga" />
+            </Menu>
+            <Menu text="Usluga">
+                <MenuItem onAction="#pretragaUsluga" text="Pretraga" />
+            </Menu>
+        </Menu>
+
+        <Menu text="Korisnici">
+            <Menu text="Privatni korisnik">
+                <MenuItem onAction="#pretragaPrivatnihKorisnika" text="Pretraga" />
+            </Menu>
+            <Menu text="Poslovni korisnik">
+                <MenuItem onAction="#pretragaPoslovnihKorisnika" text="Pretraga" />
+            </Menu>
+        </Menu>
+    </MenuBar>
+</AnchorPane>
