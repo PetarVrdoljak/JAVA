@@ -1,0 +1,67 @@
+Usluga
+1
+Instrukcije
+Instrukcije iz Java-e
+50
+2
+Usluga
+2
+Košnja
+Košnja trave
+60
+1
+Automobil
+3
+Ford
+Focus
+350
+100000
+2
+Automobil
+4
+Dacia
+Sandero
+200
+50000
+3
+Stan
+5
+Dugave
+Stanovi Dugave
+60
+75000
+3
+Stan
+6
+Dubrava
+Stanovi Dubrava
+30
+45000
+4
+Usluga
+7
+Popravak
+popravak kompjutera
+39
+3
+Stan
+8
+Ilica
+Galerija
+150
+3000
+3
+Stan
+9
+Milica
+Galerija
+140
+2600
+3
+Automobil
+10
+VW
+rabljen ali ok
+69
+75000
+3
